@@ -1,0 +1,10 @@
+.message{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(224, 224, 224);
+    border: 1px solid black;
+    margin: 5px;
+    
+}
+body{
+    background-color: darkolivegreen;
+}
